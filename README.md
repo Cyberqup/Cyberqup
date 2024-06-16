@@ -2,22 +2,20 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [SIEM Azure Sentinel with Live Attacks Home Lab]
+- [SIEM Azure Sentinel with Live Attacks Home Lab](https://github.com/Cyberqup/LABURL)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>📜 Certifications:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+- [CompTIA Security+](https://drive.google.com/file/d/1jxg8cv8cXlf4aWpRjGFcvW0irK79XTFi/view?usp=sharing)
+
+<h2> 🤝 Connect with me:</h2>
+
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/peter-qu/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cyberqup/Cyberqup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
