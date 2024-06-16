@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [SIEM Azure Sentinel with Live Attacks Home Lab](https://github.com/Cyberqup/LABURL)
+- [SIEM Azure Sentinel with Live Attacks Home Lab](https://github.com/Cyberqup/SIEM-Azure-Sentinel-with-Live-Attacks-Home-Lab)
 
 <h2>📜 Certifications:</h2>
 
