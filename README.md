@@ -1,6 +1,11 @@
 <h1>Hi, I'm Peter! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+👨‍💻 Certified Cyber Security Analyst sharing my journey and learnings in tech<br/>
+🎓 Studied Cyber Security at Institute of Data x University of Technology Sydney<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyberqup&show_icons=true&theme=nightowl)
+
+<h2>📚 Projects:</h2>
 
 - [SIEM Azure Sentinel with Live Attacks Home Lab](https://github.com/Cyberqup/SIEM-Azure-Sentinel-with-Live-Attacks-Home-Lab)
 
