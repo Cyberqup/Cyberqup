@@ -3,8 +3,6 @@
 👨‍💻 Certified Cyber Security Analyst sharing my journey and learnings in tech<br/>
 🎓 Studied Cyber Security at Institute of Data x University of Technology Sydney<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyberqup&show_icons=true&theme=nightowl)
-
 <h2>📚 Projects:</h2>
 
 - [SIEM Azure Sentinel with Live Attacks Home Lab](https://github.com/Cyberqup/SIEM-Azure-Sentinel-with-Live-Attacks-Home-Lab)
@@ -18,6 +16,11 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/peter-qu/
+<br/>
+
+<h2>📊 GitHub Stats</h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyberqup&show_icons=true&theme=nightowl)
 
 <!--
 **Cyberqup/Cyberqup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
