@@ -6,7 +6,7 @@
 <h2>📚 Projects:</h2>
 
 - [SIEM Azure Sentinel with Live Attacks Home Lab](https://github.com/Cyberqup/SIEM-Azure-Sentinel-with-Live-Attacks-Home-Lab)
-- [Vulnerability Management with Nessus]()
+- [Vulnerability Management with Nessus](https://github.com/Cyberqup/Vulnerability-Management-Nessus-Project)
 
 <h2>📜 Certifications:</h2>
 
