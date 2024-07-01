@@ -6,6 +6,7 @@
 <h2>📚 Projects:</h2>
 
 - [SIEM Azure Sentinel with Live Attacks Home Lab](https://github.com/Cyberqup/SIEM-Azure-Sentinel-with-Live-Attacks-Home-Lab)
+- [Active Directory (Oracle Virtualbox) add users w/PowerShell]()
 - [Vulnerability Management with Nessus](https://github.com/Cyberqup/Vulnerability-Management-Nessus-Project)
 
 <h2>📜 Certifications:</h2>
