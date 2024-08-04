@@ -7,6 +7,7 @@
 
 - [SIEM Azure Sentinel with Live Attacks Home Lab](https://github.com/Cyberqup/SIEM-Azure-Sentinel-with-Live-Attacks-Home-Lab)
 - [Active Directory (Oracle Virtualbox) add users w/PowerShell](https://github.com/Cyberqup/Active-Directory-Home-Lab)
+- [File Integrity Monitoring (FIM)](https://github.com/Cyberqup/File-Integrity-Monitor-FIM)
 - [Vulnerability Management with Nessus](https://github.com/Cyberqup/Vulnerability-Management-Nessus-Project)
 
 <h2>📜 Certifications:</h2>
